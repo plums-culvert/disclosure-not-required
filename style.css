@@ -58,6 +58,10 @@ h3 {
     margin: 0 0 1rem 0;
 }
 
+img {
+    width: 100%;
+}
+
 #scrolly {
     display: flex;
     max-width: 100%;
